@@ -2,6 +2,7 @@
 In this notebook, we perform a binary classification on chest X-ray images to determine whether a person has healthy lungs or is diagnosed with pneumonia. 
 The dataset used is the "Chest X-ray Images (Pneumonia)" dataset from Kaggle. 
 For this project, we have combined both viral and bacterial pneumonia into a single class.
+For this task, we utilized a custom deep convolutional neural network (CNN) model and achieved an accuracy of 95% on the test set.
 
 # Libraries and Dependencies
 This project requires the following libraries to run. You can install them using the following commands.
