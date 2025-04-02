@@ -4,6 +4,7 @@ The dataset used is the "Chest X-ray Images (Pneumonia)" dataset from Kaggle.
 We combined both viral and bacterial pneumonia into a single class. 
 For this classification, we used a custom deep convolutional neural network (CNN) model and achieved an accuracy of 95% on the test set.
 
+![chest-xray](https://github.com/user-attachments/assets/a87056e1-0a55-4117-ad48-bdb5fd810459)
 
 
 # Libraries and Dependencies
